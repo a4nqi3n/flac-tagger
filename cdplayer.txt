@@ -1,0 +1,640 @@
+Winter Bouquet - BLOOM
+artist=Winter Bouquet
+title=BLOOM
+numtracks=10
+year=2026
+0=花咲く予感
+1=メルティーメモリー
+2=winterluv
+3=雪解けに魔法
+4=ソレイユ
+5=花咲く予感 inst
+6=メルティーメモリー inst
+7=winterluv inst
+8=雪解けに魔法 inst
+9=ソレイユ inst
+
+ゆきまめ - リュフェリアの祝祭
+artist=ゆきまめ
+title=リュフェリアの祝祭
+numtracks=6
+year=2026
+0=宵と、唄と、揺蕩う月と。
+1=ルミナステラ
+2=月魄の祈り
+3=月影に、小さな願いを
+4=祝福。
+5=リュフェリアの祝祭
+
+はぁち - chexful days*
+artist=はぁち
+title=chexful days*
+numtracks=7
+year=2026
+0=charming♡flow
+1=Enjoy☆do!?
+2=Xenora
+3=Felice di te
+4=Une Journée
+5=Lullave
+6=chexful days*
+6artist=はぁち,lamie*,こにゃばた,牧野秀紀,Uzumaki,Kuroa*,RIKO
+
+ヤミナベレコーズ - オシラレル
+artist=ヤミナベレコーズ
+title=オシラレル
+numtracks=10
+year=2026
+0=夢見がちなミュージック
+0artist=繭糸
+1=はなむけ
+1artist=乃花こより
+2=マシュマロリズム
+2artist=芽々子
+3=拝啓、鍋の底から
+3artist=ななひら
+4=春模様
+4artist=六宮
+5=キャラメルワルツ
+5artist=ゆきまめ
+6=ぐるぐる猫みたい
+6artist=みちとせ
+7=くらげ
+7artist=Aifa
+8=CODE：2001
+8artist=とうめいのくに
+9=Happy Orange
+9artist=ひつじのめえ助, うさぎのそらちゃん
+
+まるもこ - ハイメンテナンスガール
+artist=まるもこ
+title=ハイメンテナンスガール
+numtracks=6
+year=2026
+0=ハイメンテナンスガール
+1=キミコンプレックス
+2=ペルソナ
+3=ハイメンテナンスガール (inst)
+4=キミコンプレックス (inst)
+5=ペルソナ (inst)
+
+Ephemeria - Ephemeria
+artist=Ephemeria
+title=Ephemeria
+numtracks=10
+year=2026
+0=君を忘れたい
+0artist=羽澄愛
+1=愛し君へ
+1artist=羽澄愛
+2=玉響の恋想い
+2artist=羽澄愛
+3=光の果てで、またいつか。
+3artist=羽澄愛
+4=星月夜 - Ephemeria orchestration -
+4artist=羽澄愛
+5=君を忘れたい(instrumental)
+6=愛し君へ(instrumental)
+7=玉響の恋想い(instrumental)
+8=光の果てで、またいつか｡(instrumental)
+9=星月夜 - Ephemeria orchestration -(instrumental)
+
+みそらみみ - 幸福は硝子の花のように
+artist=みそらみみ
+title=幸福は硝子の花のように
+numtracks=5
+year=2026
+0=幸福は硝子の花のように
+1=フェイクエネミー
+2=禁断の女神
+3=オブリエット
+4=徒花のアリア-Piano ver.-
+
+Ariabl'eyeS - 惨美なるブラッディドール
+artist=Ariabl'eyeS
+title=惨美なるブラッディドール
+numtracks=13
+year=2026
+0=Prelude－Bloody Doll－
+1=Danse Macabre
+1artist=Ruru
+2=螺旋の玻璃
+2artist=Luna
+3=狂想のイヴ
+3artist=Luna
+4=惨美なるブラッディドール
+4artist=Ruru, Risa Yuzuki
+5=冥き月のワルツ
+5artist=Ruru
+6=Prelude－Bloody Doll－ (Instrumental)
+7=Danse Macabre (Instrumental)
+8=螺旋の玻璃 (Instrumental)
+9=狂想のイヴ (Instrumental)
+10=惨美なるブラッディドール (Instrumental)
+11=冥き月のワルツ (Instrumental)
+
+Elixir Nocturne - Palette Journey
+artist=Elixir Nocturne
+title=Palette Journey
+numtracks=6
+year=2026
+0=Palette Journey
+0artist=MALVA.
+1=Spectral Atlantis
+1artist=MALVA.
+2=Hakusyu
+2artist=MALVA.
+3=Ethereal Carnelian
+3artist=MALVA.
+4=Starlight Express
+4artist=MALVA.
+5=Arkadia
+5artist=MALVA.
+
+しろさきあや - Atelier in Bloom
+artist=しろさきあや
+title=Atelier in Bloom
+numtracks=12
+year=2026
+0=Live Free Canvas
+1=まわりみちトレジャーハント
+2=聖痕感染 -Stigma Infection-
+3=千夜とオアシス
+4=神楽桜歌
+5=重ねて、コントラスト
+5artist=しろさきあや,まより
+6=crush 1,4,3
+7=Still Here
+8=月が沈むまで
+9=アトリエ
+10=Sweet Gradation
+11=Asterism
+
+優莉 - LetteR
+artist=優莉
+title=LetteR
+numtracks=6
+year=2026
+0=LetteR
+1=retry...
+2=Strelitzia
+3=LetteR（Instrumental）
+4=retry...（Instrumental）
+5=Strelitzia（Instrumental）
+
+ろくななそふと - Fiction WAVE 2026
+artist=ろくななそふと
+title=Fiction WAVE 2026
+numtracks=8
+year=2026
+0=EXTRAMARX
+0artist=Setca. & kooridori feat.輪音
+1=halluc1nati0n
+1artist=otoshi.b feat.はらもりよしな
+2=めいどいっと・どぅーいっと！
+2artist=K4Y5 feat.古都ことり, 卯の宮ぽむ
+3=Snow Crypto
+3artist=Setca. feat.咲良ゆの
+4=フラッシュバック・エスケープ
+4artist=kooridori feat.ももじりまるこ
+5=メタふぃくしょん？メチャふぁんくしょん！
+5artist=ねこみりん feat.まるもこ
+6=凪の依り代
+6artist=K4Y5 & otoshi.b feat.nayuta
+7=Pastel Palette!
+7artist=Naki feat.梨雛
+
+stellatram - PROJECT CIEL＊LINK
+artist=stellatram
+title=PROJECT CIEL＊LINK
+numtracks=7
+year=2026
+0=地鎮祭 ～ jj Cras we Cab Seff ～
+0artist=月宮瑠璃華, 巫月和音, だぶるぜぇた, ほいみん
+1=METHOD_HYMME_HUMMINGSPHERE/.
+1artist=urushi
+2=EXEC_HYMME_TENTAPLICLES/.
+2artist=奈雪ニーカ
+3=EXEC_HYMME_HEXAPETAL/.
+3artist=月宮瑠璃華
+4=君に贈る賛歌
+4artist=月宮瑠璃華
+5=chef-i-tes-ny lin-ea;
+5artist=だぶるぜぇた
+6=EXEC_with.METHOD_CIEL.＊.LINK/.
+6artist=urushi, 奈雪ニーカ, 月宮瑠璃華
+
+Unlimited Color - Burst the Horizon
+artist=Unlimited Color
+title=Burst the Horizon
+numtracks=5
+year=2026
+0=Introduction
+1=STAY REAL
+1artist=MaiR(from ザスター)
+2=Residual
+2artist=松永依織
+3=Fatal Program
+3artist=キョンシーのCiちゃん
+4=Still Breathing Here
+4artist=夕月ティア
+
+薄明生徒会 - スタートしたらあっちゅーま！
+artist=薄明生徒会
+title=スタートしたらあっちゅーま！
+numtracks=4
+year=2026
+0=スタートしたらあっちゅーま！
+0artist=月乃,つぐ,るる
+1=Equation
+1artist=月乃,つぐ,るる
+2=ワンダフル！ウィッシュ！
+2artist=月乃,つぐ,るる
+3=薄明高校校歌
+3artist=月乃,つぐ,るる
+
+めらみぽっぷ - AM/FM
+artist=めらみぽっぷ
+title=AM/FM
+numtracks=4
+year=2026
+0=Another Memories
+1=Forbidden Magic
+2=Another Memories -Instrumental-
+3=Forbidden Magic -Instrumental-
+
+Lilyane - 金木犀の手紙
+artist=Lilyane
+title=金木犀の手紙
+numtracks=6
+year=2026
+0=うさぎたちと願いごと
+0artist=りり, うさおりーぬ
+1=月夜の約束 Andromeda
+1artist=りり, うさおりーぬ
+2=金のしっぽの晩餐会
+2artist=りり, うさおりーぬ
+3=うさぎたちと願いごと 〜instrumental〜
+4=月夜の約束 Andromeda 〜instrumental〜
+5=金のしっぽの晩餐会 〜instrumental〜
+
+づ - 青の境界を跳び越えて
+artist=づ
+title=青の境界を跳び越えて
+numtracks=4
+year=2026
+0=Blue Air
+0artist=Neige, まつな, RiCO
+1=乾いた土のうえで
+2=鳥たちは囀る
+2artist=まつな, RiCO
+3=Blue Horizon
+3artist=Neige, まつな, RiCO
+
+Imy - Fadeless
+artist=Imy
+title=Fadeless
+numtracks=8
+year=2026
+0=二輪のマリーゴールド
+0artist=秋奈
+1=波を纏う
+1artist=藍月なくる
+2=Not Falling
+2artist=棗いつき
+3=Lycoris
+3artist=花たん
+4=二輪のマリーゴールド (Instrumental)
+5=波を纏う (Instrumental)
+6=Not Falling (Instrumental)
+7=Lycoris (Instrumental)
+
+朝木ゆう - Emotional Sanctuary
+artist=朝木ゆう
+title=Emotional Sanctuary
+numtracks=4
+year=2026
+0=Fragile
+1=ふたりのトワイライト
+2=Fragile (instrumental)
+3=ふたりのトワイライト (instrumental)
+
+まより - Blue Ruby
+artist=まより
+title=Blue Ruby
+numtracks=10
+year=2026
+0=Blue Ruby
+1=ほんとうのしるし
+2=Pixel:Re☆Start
+3=My Harmonized World
+4=ポンコツメイドはまよどるふぃん！
+5=よくばリッチ♡ウィッチ
+6=Seeing Lights
+7=星逢モノローグ
+8=キラメキストーリー
+9=あたしを見て！
+
+森羅万象 - イマジナリア
+artist=森羅万象
+title=イマジナリア
+numtracks=8
+year=2026
+0=フラッシュヒーロー
+0artist=あよ, 棗いつき
+1=スキスキ♡ダーリン
+1artist=あやぽんず＊, ななひら
+2=Midnight lucid somnia
+2artist=あよ, をとは
+3=アルティメット早口バトル!!
+3artist=あやぽんず＊, ちょこ
+4=海底首都
+4artist=あよ, 藍月なくる
+5=失楽園
+5artist=あやぽんず＊, Risa Yuzuki
+6=六月の雨は歌う
+6artist=あやぽんず＊, nayuta
+7=イマジナリア
+7artist=あやぽんず＊, あよ, 棗いつき, ななひら, をとは, ちょこ, 藍月なくる, Risa Yuzuki, nayuta
+
+長尾ちえみ - LiNK NEW WORLD
+artist=長尾ちえみ
+title=LiNK NEW WORLD
+numtracks=12
+year=2026
+0=LiNK NEW WORLD
+1=PERFECT BLUE
+2=GO CRAZY DOWN
+3=LOVE QUEST
+4=Signal Flow Reset
+4artist=長尾ちえみ, 咲良ゆの
+5=KEEP IT HEART DISC
+6=LiNK NEW WORLD (Instrumental)
+7=PERFECT BLUE (Instrumental)
+8=GO CRAZY DOWN (Instrumental)
+9=LOVE QUEST (Instrumental)
+10=Signal Flow Reset (Instrumental)
+11=KEEP IT HEART DISC (Instrumental)
+
+魂屋 - Soul Collage
+artist=魂屋
+title=Soul Collage
+numtracks=4
+year=2026
+0=Love Like
+0artist=tamaya
+1=夏至点ロジック
+1artist=tamaya
+2=piece of cake
+2artist=tamaya
+3=透明のフライトナンバー
+3artist=tamaya
+
+Risa Yuzuki - Blooming Bouquet
+artist=Risa Yuzuki
+title=Blooming Bouquet
+numtracks=13
+year=2026
+0=Garden Entrance
+1=白花綴
+2=35mmのエピローグ
+3=白波のリフレクト
+4=Velvet Spell
+5=My Crystarise
+6=A Bloomy Gift
+7=白花綴 -Instrumental-
+8=35mmのエピローグ -Instrumental-
+9=白波のリフレクト -Instrumental-
+10=Velvet Spell -Instrumental-
+11=My Crystarise -Instrumental-
+12=A Bloomy Gift -Instrumental-
+
+Isle & Notes - Necromance ～散りゆく桜花と屍者の国～
+artist=Isle & Notes
+title=Necromance ～散りゆく桜花と屍者の国～
+numtracks=8
+year=2026
+0=アイラの花絵巻【永遠桜】
+0artist=nayuta
+1=花は淡雪
+1artist=るる
+2=桜花水滸恋歌
+2artist=るる
+3=朧、開花、刹那の調
+3artist=つぐ×るる
+4=待宵神楽
+4artist=鈍色聴
+5=空蝉は哭く
+5artist=鈍色聴
+6=永劫回花
+6artist=鈍色聴
+7=春宵一刻
+7artist=sola
+
+technoplanet - Happy Distortion
+artist=technoplanet
+title=Happy Distortion
+numtracks=7
+year=2026
+0=頂き女子
+0artist=小宵
+1=気楽なCloudy
+1artist=はるき
+2=Oddly Oddly
+2artist=メルシュ-Malstrøm-, 小宵, 魔宮マオ, 葉柳ちぐさ, 花汐ぺあ, Nanoha。, 夕月ティア
+3=Far Away Light [Long Version]
+3artist=木下珠子
+4=朱月ノ姫 [Long Version]
+4artist=夕月ティア
+5=Deep Blue [Long Version]
+5artist=木下珠子
+6=Forever Smile
+6artist=小宵
+
+Sennzai - UTSUROI
+artist=Sennzai
+title=UTSUROI
+numtracks=9
+year=2026
+0=Echoes of the Seasons
+1=雪解けの序奏
+2=群青の先へ
+3=Autumn Leaves
+4=Aftersnow
+5=雪解けの序奏(Instrumental Ver.)
+6=群青の先へ(Instrumental Ver.)
+7=Autumn Leaves(Instrumental Ver.)
+8=Aftersnow(Instrumental Ver.)
+
+CONNEMO - CNM EDGE
+artist=CONNEMO
+title=CNM EDGE
+numtracks=8
+year=2026
+0=MODEL PRISONER
+0artist=茨むあん
+1=Step your Beats
+1artist=ChumuNote
+2=Refravia
+2artist=つぐ
+3=アルコーンの機械律
+3artist=えん
+4=浸海のアトリエ
+4artist=みそらみみ
+5=Don't take Lies
+5artist=尾手またび
+6=Prologue Of Light
+6artist=咲良ゆの
+7=Untransparent Star
+7artist=凪乃ましろ
+
+Fluoritopia - LOST SPHERE
+artist=Fluoritopia
+title=LOST SPHERE
+numtracks=12
+year=2026
+0=無垢のオーギュメント
+0artist=榊原ゆい
+1=AMNESIA
+1artist=AKA
+2=Black Olrov
+2artist=六宮
+3=Fatal Glitch
+3artist=つぐ
+4=Still Here
+4artist=菊植-kikuchi-
+5=翼贄のエリジア
+5artist=nez
+6=Luminance Remains
+6artist=叶響, 蓮実えれな
+7=彩花 ver.LOST SPHERE
+7artist=榊原ゆい
+8=暁の少女らは片翼だった
+8artist=あかしゆき
+9=UNDEFINED
+9artist=りんたる
+10=断罪の夜明け ver.LOST SPHERE
+10artist=つぐ
+11=終末のテスタメント ver.LOST SPHERE
+11artist=okogeeechann
+
+咲良ゆの - 想星エトワール
+artist=咲良ゆの
+title=想星エトワール
+numtracks=5
+year=2026
+0=想星エトワール
+1=Into the light
+2=ツヨガリモノローグ
+3=アカネシルエット
+4=My Spica
+
+咲良ゆの, 仲村芽衣子 - 深き蒼天のステラ
+artist=咲良ゆの, 仲村芽衣子
+title=深き蒼天のステラ
+numtracks=8
+year=2026
+0=Binary star
+1=Luminous Depth
+2=深き蒼天のステラ
+3=レプリカ・ブルー ～仲村芽衣子 ver.～
+3artist=仲村芽衣子
+4=Fixed. ～咲良ゆの ver.～
+4artist=咲良ゆの
+5=Binary star (instrumental)
+6=Luminous Depth (instrumental)
+7=深き蒼天のステラ (instrumental)
+
+fluffy（桜花こりす × 勿忘うた）  - みっくすふらふぃ定食！
+artist=fluffy（桜花こりす × 勿忘うた） 
+title=みっくすふらふぃ定食！
+numtracks=9
+year=2025
+0=♡fluffy fluffy fluffy♡
+1=It's fluffy showtime!♡
+1artist=fluffy（桜花こりす × 勿忘うた）
+2=みっくすふらふぃ定食！
+2artist=fluffy（桜花こりす × 勿忘うた）
+3=すーぱーえびふらふぃ！
+3artist=fluffy（桜花こりす × 勿忘うた）
+4=すーぱーあじふらふぃ！
+4artist=fluffy（桜花こりす × 勿忘うた）
+5=すーぱーいかふらふぃ！
+5artist=fluffy（桜花こりす × 勿忘うた）
+6=すーぱーかにふらふぃ！
+6artist=fluffy（桜花こりす × 勿忘うた）
+7=It's fluffy showtime!♡(inst)
+8=みっくすふらふぃ定食！(inst)
+
+勿忘うた - にゃんてね！
+artist=勿忘うた
+title=にゃんてね！
+numtracks=4
+year=2026
+0=にゃんてね！
+1=ネモ
+2=にゃんてね！(inst)
+3=ネモ(inst)
+
+乃花こより - Mementokoyo
+artist=乃花こより
+title=Mementokoyo
+numtracks=13
+year=2026
+0=8番目のアリス
+1=薔薇色吸血舞踏会
+2=Sis
+2artist=乃花こより, ななきなな
+3=オールド
+4=Water burial（2026 Ver）
+5=迷遠
+6=8番目のアリス（Instrumental）
+7=薔薇色吸血舞踏会（Instrumental）
+8=Sis（Instrumental）
+9=オールド（Instrumental）
+10=Water burial（2026 Ver）（Instrumental）
+11=迷遠（Instrumental）
+12=BonusTrack「留守電」
+
+ことの - めまぐる！
+artist=ことの
+title=めまぐる！
+numtracks=5
+year=2026
+0=レンダスイッチ
+1=週末のDance Queen
+2=トゥルーエンドは君だけ feat.ひのせ
+3=新作のしあわせはこちら
+4=ひといき
+
+凪乃なの - ２なのめーとる
+artist=凪乃なの
+title=２なのめーとる
+numtracks=11
+year=2026
+0=望失
+1=UNKNOWN
+2=qualified
+3=ハヤブサ
+4=Kirameki
+5=Faint Light
+6=Bye
+7=青い世界
+8=Abyss.log
+9=Abyss.log (cexiria remix)
+10=My confidence
+
+Project Azure - Binary Star
+artist=Project Azure
+title=Binary Star
+numtracks=4
+year=2026
+0=Binary Star
+0artist=LV.4 feat.Alcedo
+1=Binary Star - pocotan Remix -
+1artist=Remixed pocotan
+2=Binary Star (Instrumental)
+2artist=LV.4 feat.Alcedo
+3=Binary Star - pocotan Remix - (Instrumental)
+3artist=Remixed pocotan
+
